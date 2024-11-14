@@ -1,13 +1,6 @@
----
-title: "DSC180A Methodology Assignment 5"
-layout: default
----
+## Kavya Sriram (kasriram@ucsd.edu)
 
-## Your Name and UCSD Email Address
-
-## Section and Mentor Information
-
-## Questions and Answers
+## Section A10, Mentors: Emily Ramond and Greg Thein
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
 
